@@ -1,4 +1,4 @@
-# challenge-ejins
+# 입력 및 검색 CHALLENGE
 
 ## Project setup
 ```
