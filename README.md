@@ -1,7 +1,5 @@
 # 입력 및 검색 CHALLENGE
-```
-vue3 + pinia + router
-```
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 ## Project setup
 ```
 npm install
